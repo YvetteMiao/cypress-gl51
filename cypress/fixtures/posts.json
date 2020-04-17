@@ -1,0 +1,181 @@
+{
+  "articles": [
+    {
+      "title": "title",
+      "slug": "title-63anfp",
+      "body": "test",
+      "createdAt": "2020-04-17T18:38:36.095Z",
+      "updatedAt": "2020-04-17T18:38:36.095Z",
+      "tagList": [],
+      "description": "test",
+      "author": {
+        "username": "ahmed5",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "rt",
+      "slug": "rt-tul3v7",
+      "body": "tt",
+      "createdAt": "2020-04-17T18:36:08.493Z",
+      "updatedAt": "2020-04-17T18:36:08.493Z",
+      "tagList": [],
+      "description": "tt",
+      "author": {
+        "username": "ahmed5",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "rrr",
+      "slug": "rrr-6uajf8",
+      "body": "rerer",
+      "createdAt": "2020-04-17T18:35:24.498Z",
+      "updatedAt": "2020-04-17T18:35:24.498Z",
+      "tagList": [],
+      "description": "rrz",
+      "author": {
+        "username": "ahmed5",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "article 1",
+      "slug": "article-1-60bzbx",
+      "body": "an artivle ",
+      "createdAt": "2020-04-17T18:26:05.360Z",
+      "updatedAt": "2020-04-17T18:26:05.360Z",
+      "tagList": [],
+      "description": "IDK",
+      "author": {
+        "username": "zzz2",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "New Article 3424",
+      "slug": "new-article-3424-uduae9",
+      "body": "sada 3423 fsdfs",
+      "createdAt": "2020-04-17T18:19:28.514Z",
+      "updatedAt": "2020-04-17T18:19:28.514Z",
+      "tagList": [
+        "five",
+        "four",
+        "three",
+        "two",
+        "one"
+      ],
+      "description": "sadasd 32424",
+      "author": {
+        "username": "AngelinaJolie",
+        "bio": "Super Sexxxy",
+        "image": "https://www.vokrug.tv/pic/product/1/1/c/7/11c7da27e152c0d8842012d8e1cd279a.jpeg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "something awesome",
+      "slug": "something-awesome-zj59i4",
+      "body": "This is something awesome.",
+      "createdAt": "2020-04-17T18:09:10.045Z",
+      "updatedAt": "2020-04-17T18:09:10.045Z",
+      "tagList": [],
+      "description": "somerthing awesome?",
+      "author": {
+        "username": "amcardwell",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Test",
+      "slug": "test-4zlytn",
+      "body": "Test2",
+      "createdAt": "2020-04-17T18:07:48.742Z",
+      "updatedAt": "2020-04-17T18:07:48.742Z",
+      "tagList": [],
+      "description": "Test1",
+      "author": {
+        "username": "Olga",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "tt",
+      "slug": "tt-noez8o",
+      "body": "ttt",
+      "createdAt": "2020-04-17T18:02:20.257Z",
+      "updatedAt": "2020-04-17T18:02:20.257Z",
+      "tagList": [],
+      "description": "tt",
+      "author": {
+        "username": "mdelcarpio",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "API Injected Data",
+      "slug": "api-injected-data-368jqk",
+      "body": "The body of the API message",
+      "createdAt": "2020-04-17T14:48:30.253Z",
+      "updatedAt": "2020-04-17T14:48:30.253Z",
+      "tagList": [],
+      "description": "This was set via API",
+      "author": {
+        "username": "user_20200417154826",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "IDK",
+      "slug": "idk-lx22s0",
+      "body": "i dk",
+      "createdAt": "2020-04-17T14:47:35.550Z",
+      "updatedAt": "2020-04-17T14:47:35.550Z",
+      "tagList": [],
+      "description": "IDK",
+      "author": {
+        "username": "truonglv1234",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    }
+  ],
+  "articlesCount": 500
+}
