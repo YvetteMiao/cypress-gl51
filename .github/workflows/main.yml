@@ -31,3 +31,6 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
+    
+    - name: Cypress.io
+      uses: cypress-io/github-action@v1.16.1
